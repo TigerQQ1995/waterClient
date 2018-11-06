@@ -35,7 +35,7 @@ namespace waterClient
             }
             catch (Exception)
             {
-                ShowMsg("连接服务器  失败。。。请仔细检查服务器是否开启");
+                ShowMsg("连接服务器显示失败。。。请仔细检查服务器是否开启");
             }
           
         }
